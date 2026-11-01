@@ -56,7 +56,7 @@ const developer = {
 ### 🎨 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind&theme=dark" />
 </p>
 
 ### ⚙️ Backend Development
@@ -80,7 +80,7 @@ const developer = {
 ### 🔧 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
