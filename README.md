@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MaitreyeeBudhale&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
 
 </div>
 
